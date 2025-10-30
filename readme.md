@@ -1,0 +1,3 @@
+- change the zshrc file to home `mv zshrc ~/.zshrc` for adding zsh configs.
+- move the zsh theme to home/oh-my-zsh `mv 'oh my zsh anonymous.zsh-theme' ~/.oh-my-zsh/custom/themes/anonymous.zsh-theme`.
+- source the zsh by `clear;source ~/.zshrc`.
