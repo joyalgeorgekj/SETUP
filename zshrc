@@ -111,7 +111,8 @@ alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ls="lsd -l"
 alias cat="bat"
 alias clear="clear"
-alias syu="sudo dnf upgrade"
+alias syu="sudo dnf upgrade -y"
+alias kak="kubectl apply -k"
 
 afetch
 echo ""
