@@ -8,3 +8,10 @@
 > IF YOU WANT YOU CAN USE MY ZSHRC FILE WHICH CAN BE FOUND IN THIS REPO
 4. Run this command to enable the theme `clear; source ~/.zshrc`.
 
+# Desktop customization
+
+- Global theme: Otto
+- Application Style: Fusion
+- Icons: Slot-Multicolor-Dark
+- Cursor: Bibata Modern Classic
+- Login Screen: Breeze
